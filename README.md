@@ -1,4 +1,4 @@
-# mammogram-mass
+# Mammogram-mass
 
 It is used to predict weather the mammogram mass is benign or malignant.
 The variables are 
